@@ -1,4 +1,4 @@
-# software_eng_project
+#
 The weekly meeting report forms:
 
 [Group7_MeetingReportForm_Week 1.docx](https://github.com/itsdea/software_eng_project/files/14899035/Group7_MeetingReportForm_Week.1.docx)
