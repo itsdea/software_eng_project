@@ -8,3 +8,6 @@ The weekly meeting report forms:
 [Group7_MeetingReportForm_Week 3.docx](https://github.com/itsdea/software_eng_project/files/14899043/Group7_MeetingReportForm_Week.3.docx)
 
 [Group7_MeetingReportForm_Week 4.docx](https://github.com/itsdea/software_eng_project/files/14899044/Group7_MeetingReportForm_Week.4.docx)
+
+[Group7_MeetingReportForm_Week 5.docx](https://github.com/itsdea/software_eng_project/files/15243489/Group7_MeetingReportForm_Week.5.docx)
+
